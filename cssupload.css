@@ -58,7 +58,7 @@
 .daterangepicker td.start-date {
   background-color: #6247e0;
   color: #fff;
-  border-radius: 50% 0 0 50%;
+  border-radius: 10% 0 0 10%;
 }
 .daterangepicker td.end-date {
   background-color: #6247e0;
